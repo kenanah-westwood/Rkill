@@ -213,4 +213,4 @@ RKill is offered as a complete free version, providing all features and updates 
 Take action now to protect your system—download RKill today and eliminate malware threats with confidence!
 
 ---
-**Last updated:** 2026-09-18 04:07:47 UTC
+**Last updated:** 2026-09-18 09:31:10 UTC
